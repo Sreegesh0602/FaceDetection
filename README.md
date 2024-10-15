@@ -23,5 +23,5 @@ To run the project, you'll need to have the following dependencies installed:
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/FaceTracker.git
+git clone https://github.com/Sreegesh0602/FaceDetection.git
 cd FaceTracker
