@@ -2,3 +2,7 @@
 **/*.jpeg
 **/*.png
 **/*.json
+./logs/**
+face_detect
+**/*.v2
+**/*.h5
